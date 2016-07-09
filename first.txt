@@ -1,2 +1,3 @@
 Some text
 New text
+Also some text
